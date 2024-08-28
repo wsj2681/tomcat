@@ -4,19 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Page Import Test</title>
+<title>publishing page test</title>
 </head>
 <body>
-        <H2> Page Import</H2>
- 
-<%@ page import="java.util.Date" %>
- 
-        Date2 : <%= new Date().toString() %>
-
-
-
-
-
+        <H2>Test Page</H2>
 </body>
 </html>
 
