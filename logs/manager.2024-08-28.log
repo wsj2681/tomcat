@@ -13,3 +13,28 @@
 28-Aug-2024 06:36:50.058 INFO [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /usr/local/tomcat/webapps/sample.war
 28-Aug-2024 06:39:25.324 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
 28-Aug-2024 06:45:00.741 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+28-Aug-2024 08:37:41.262 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+28-Aug-2024 08:37:41.265 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+28-Aug-2024 08:37:41.270 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+28-Aug-2024 08:37:41.288 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+28-Aug-2024 08:37:41.297 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/sample'
+28-Aug-2024 08:37:41.352 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/sample'
+28-Aug-2024 08:37:41.352 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /usr/local/tomcat/webapps/sample.war
+28-Aug-2024 08:37:41.559 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+28-Aug-2024 08:37:41.563 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+28-Aug-2024 08:37:41.568 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/sample'
+28-Aug-2024 08:37:41.584 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/sample'
+28-Aug-2024 08:37:41.584 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /usr/local/tomcat/webapps/sample.war
+28-Aug-2024 08:57:26.588 INFO [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+28-Aug-2024 08:57:26.594 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+28-Aug-2024 08:57:26.597 INFO [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/sample'
+28-Aug-2024 08:57:26.634 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/sample'
+28-Aug-2024 08:57:26.634 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /usr/local/tomcat/webapps/sample.war
+28-Aug-2024 08:57:26.863 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+28-Aug-2024 08:57:26.866 INFO [http-nio-8080-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+28-Aug-2024 08:57:26.873 INFO [http-nio-8080-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/sample'
+28-Aug-2024 08:57:26.884 INFO [http-nio-8080-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/sample'
+28-Aug-2024 08:57:26.887 INFO [http-nio-8080-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /usr/local/tomcat/webapps/sample.war
+28-Aug-2024 08:58:49.639 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+28-Aug-2024 08:58:49.639 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+28-Aug-2024 08:58:49.661 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
